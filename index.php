@@ -151,7 +151,7 @@ $ogpType = "website";
         <a href="https://job.mynavi.jp/24/pc/corpinfo/displayInternship/index?corpId=73016&amp;optNo=Rbhjm" target="_blank" class="c-btn01 c-btn01--top c-btn01--intern"><span>INTERNSHIP</span>インターンシップ</a>
       </div>
       <div class="l-home-menu-sub__item l-home-menu-sub__item--03">
-        <a href="https://job.mynavi.jp/23/pc/search/corp73016/outline.html" target="_blank" class="c-btn01 c-btn01--top c-btn01--entry"><span>ENTRY</span>エントリー</a>
+        <a href="https://job.mynavi.jp/24/pc/search/corp73016/outline.html" target="_blank" class="c-btn01 c-btn01--top c-btn01--entry"><span>ENTRY</span>エントリー</a>
       </div>
     </nav>
 
