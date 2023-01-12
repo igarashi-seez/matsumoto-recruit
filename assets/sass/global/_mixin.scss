@@ -1,0 +1,16 @@
+
+@mixin l-height($px , $height) {
+  // font-size: $px * 1px;
+  line-height: $height / $px;
+}
+
+@mixin fontsize($size) {
+  font-size: $size + px;
+  font-size: ($size / 10) + rem;
+}
+
+
+//font
+@mixin work-sans {
+  font-family: 'Work Sans', sans-serif;
+}

@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+// ex map-get(g.$colors, 'text');
+$colors: (
+
+  'heading': #1FBEAE, //見出し文字色
+  'text': #3B433B,    //本文文字色
+  'link': #1A929B,    //リンク色
+  'bg01': #F1F8F4,    //背景色01
+  'bg02': #DFEEE9,    //背景色02
+  'line01': #1FBEAE,  //線色01
+  'line02': #707070,  //線色02
+
+);
+
+
+// ex @media #{g.$size_600}{
+$size_1400: "(max-width: 1400px)";
+$size_1280: "(max-width: 1280px)";
+$size_1200: "(max-width: 1200px)";
+$size_1024: "(max-width: 1024px)";
+$size_1000: "(max-width: 1000px)";
+$size_992: "(max-width: 992px)";
+$size_800: "(max-width: 800px)";
+$size_768: "(max-width: 768px)";
+$size_640: "(max-width: 640px)";
+$size_576: "(max-width: 576px)";
+$size_480: "(max-width: 480px)";

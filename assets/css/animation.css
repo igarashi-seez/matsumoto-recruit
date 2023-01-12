@@ -1,0 +1,155 @@
+.l-home-wrapper{
+    transition: 1.5s 0.5s;
+    opacity: 0;
+}
+
+.l-home-wrapper.animateActive{
+    opacity: 1;
+}
+
+#loading .text > i{
+    transition: 1s 0s;
+}
+
+#loading.animateActive .text .loading1{
+    top: -45px;
+    opacity: 1;
+    filter: blur(0px);
+}
+
+#loading.animateActive .text .loading2{
+    top: 0px;
+    opacity: 1;
+    transition-delay: .5s;
+    filter: blur(0px);
+}
+
+#loading.animateActive .text .loading3{
+    top: 112px;
+    opacity: 1;
+    transition-delay: 1s;
+    filter: blur(0px);
+}
+
+#loading.removeLoading .text .loading1,
+#loading.removeLoading .text .loading2,
+#loading.removeLoading .text .loading3{
+    filter: blur(50px);
+    transform: scale(1.5);
+    transition: 2s 0s;
+}
+
+#loading{
+    transition: 1.5s .5s;
+}
+
+#loading.removeLoading{
+    opacity: 0;
+}
+
+#loading2 span:before{
+    height: 0%;
+}
+
+#loading2.animateActive span:before{
+    transition: 2s 0s ease-in-out;
+    height: 100%;
+}
+#loading2.animateActive .l-home-kv-lead__line--02:before{
+    transition: 2s 2s ease-in-out;
+}
+#loading2.animateActive .l-home-kv-lead__line--03:before{
+    transition: 2.5s 4s ease-in-out;
+}
+
+.l-header-btn:hover .l-header-btn__line{
+    animation: hambHover linear .5s alternate 0s;
+}
+
+.l-header-btn:hover .l-header-btn__line:nth-last-of-type(1){
+    animation: hambHover2 linear .7s alternate 0s forwards;
+}
+
+@keyframes hambHover{
+    0%{
+
+    }
+    45%{
+        width: 0%;
+        opacity: 0;
+    }
+    80%{
+        left: auto;
+        right: 0;
+    }
+    100%{
+        width: 100%;
+        opacity: 1;
+        left: auto;
+        right: 0;
+    }
+}
+
+@keyframes hambHover2{
+    0%{
+
+    }
+    35%{
+        width: 0px;
+        opacity: 0;
+    }
+    60%{
+
+    }
+    70%{
+        width: 100%;
+        opacity: 1;
+        left: auto;
+        right: 0;
+    }
+    90%{
+        width: 100%;
+        opacity: 1;
+        left: 0;
+        right: auto;
+    }
+    100%{
+        width: 27px;
+        left: 0;
+        right: auto;
+    }
+}
+
+/* 一般アニメーション */
+.wayItem{
+    opacity: 0;
+    transform: translateY(-30px);
+    transition: .6s 0s cubic-bezier(0,.69,.46,.99);
+    filter: blur(10px);
+}
+
+.wayActive .wayItem{
+    opacity: 1;
+    transform: translateY(0px);
+    filter: blur(0px);
+}
+
+.wayWrapItem{
+    opacity: 0;
+    transition: 1s 0s cubic-bezier(0,.69,.46,.99);
+}
+
+.wayActive.wayWrapItem{
+    opacity: 1;
+}
+
+.wayWrapItem.wayWrapItemBlur{
+    transform: translateY(-30px);
+    filter: blur(10px);
+}
+
+.wayActive.wayWrapItem.wayWrapItemBlur{
+    transform: translateY(0px);
+    filter: blur(0px);
+}
+
