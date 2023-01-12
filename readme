@@ -1,0 +1,9 @@
+# 松本信金リクルートページ
+
+## 改修時
+docker compose up -d
+
+http://localhost:8000/
+
+## 作業終了時
+docker compose down
