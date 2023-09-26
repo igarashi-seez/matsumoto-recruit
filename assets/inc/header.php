@@ -8,10 +8,10 @@
     <div class="l-header__nav">
       <div class="l-header-links">
         <div class="l-header-links__item">
-          <a href="https://job.mynavi.jp/24/pc/corpinfo/displayInternship/index?corpId=73016&amp;optNo=Rbhjm" target="_blank" class="c-btn01 c-btn01--header c-btn01--intern">インターンシップ</a>
+          <a href="https://job.mynavi.jp/25/pc/corpinfo/displayInternship/index?corpId=73016&optNo=RYNFY" target="_blank" class="c-btn01 c-btn01--header c-btn01--intern">インターンシップ</a>
         </div>
         <div class="l-header-links__item">
-          <a href="https://job.mynavi.jp/24/pc/search/corp73016/outline.html" target="_blank" class="c-btn01 c-btn01--header c-btn01--entry">エントリー</a>
+          <a href="https://job.mynavi.jp/25/pc/search/corp73016/outline.html" target="_blank" class="c-btn01 c-btn01--header c-btn01--entry">エントリー</a>
         </div>
       </div>
       <button id="triggerAnimateHamb" class="l-header-btn">
@@ -39,10 +39,10 @@
     </nav>
     <nav class="l-hamb-nav__banner">
       <div class="l-header-links__item">
-        <a href="https://job.mynavi.jp/24/pc/corpinfo/displayInternship/index?corpId=73016&amp;optNo=Rbhjm" target="_blank" class="c-btn01 c-btn01--header c-btn01--intern">INTERNSHIP</a>
+        <a href="https://job.mynavi.jp/25/pc/corpinfo/displayInternship/index?corpId=73016&optNo=RYNFY" target="_blank" class="c-btn01 c-btn01--header c-btn01--intern">INTERNSHIP</a>
       </div>
       <div class="l-header-links__item">
-        <a href="https://job.mynavi.jp/24/pc/search/corp73016/outline.html" target="_blank" class="c-btn01 c-btn01--header c-btn01--entry">ENTRY</a>
+        <a href="https://job.mynavi.jp/25/pc/search/corp73016/outline.html" target="_blank" class="c-btn01 c-btn01--header c-btn01--entry">ENTRY</a>
       </div>
     </nav>
   </div>

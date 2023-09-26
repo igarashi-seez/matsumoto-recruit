@@ -198,7 +198,7 @@ $ogpType = "article";
 
               <div class="recruit-flow-btn">
                 <div class="recruit-flow-btn__inner">
-                  <a href="https://job.mynavi.jp/24/pc/search/corp73016/outline.html" target="_blank" class="c-btn01 c-btn01--jp">詳しくはマイナビへ</a>
+                  <a href="https://job.mynavi.jp/25/pc/search/corp73016/outline.html" target="_blank" class="c-btn01 c-btn01--jp">詳しくはマイナビへ</a>
                 </div>
               </div><!-- /recruit-flow-btn -->
 

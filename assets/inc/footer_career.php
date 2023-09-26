@@ -27,10 +27,10 @@
     </ul><!-- /l-footer-nav -->
     <ul class="l-footer-nav">
       <li class="l-footer-nav__item">
-        <a href="https://job.mynavi.jp/24/pc/corpinfo/displayInternship/index?corpId=73016&amp;optNo=Rbhjm" target="_blank" class="l-footer-nav__link">インターンシップ</a>
+        <a href="https://job.mynavi.jp/25/pc/corpinfo/displayInternship/index?corpId=73016&optNo=RYNFY" target="_blank" class="l-footer-nav__link">インターンシップ</a>
       </li>
       <li class="l-footer-nav__item">
-        <a href="https://job.mynavi.jp/24/pc/search/corp73016/outline.html" target="_blank" class="l-footer-nav__link">エントリー</a>
+        <a href="https://job.mynavi.jp/25/pc/search/corp73016/outline.html" target="_blank" class="l-footer-nav__link">エントリー</a>
       </li>
       <li class="l-footer-nav__item">
         <a href="/contact/" class="l-footer-nav__link">お問い合わせ</a>

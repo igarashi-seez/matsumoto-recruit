@@ -148,10 +148,10 @@ $ogpType = "website";
         <a href="/contact/" class="c-btn01 c-btn01--top"><span>CONTACT</span>お問い合わせ</a>
       </div>
       <div class="l-home-menu-sub__item l-home-menu-sub__item--02">
-        <a href="https://job.mynavi.jp/24/pc/corpinfo/displayInternship/index?corpId=73016&amp;optNo=Rbhjm" target="_blank" class="c-btn01 c-btn01--top c-btn01--intern"><span>INTERNSHIP</span>インターンシップ</a>
+        <a href="https://job.mynavi.jp/25/pc/corpinfo/displayInternship/index?corpId=73016&optNo=RYNFY" target="_blank" class="c-btn01 c-btn01--top c-btn01--intern"><span>INTERNSHIP</span>インターンシップ</a>
       </div>
       <div class="l-home-menu-sub__item l-home-menu-sub__item--03">
-        <a href="https://job.mynavi.jp/24/pc/search/corp73016/outline.html" target="_blank" class="c-btn01 c-btn01--top c-btn01--entry"><span>ENTRY</span>エントリー</a>
+        <a href="https://job.mynavi.jp/25/pc/search/corp73016/outline.html" target="_blank" class="c-btn01 c-btn01--top c-btn01--entry"><span>ENTRY</span>エントリー</a>
       </div>
     </nav>
 
